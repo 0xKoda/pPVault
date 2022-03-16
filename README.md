@@ -1,6 +1,11 @@
-## Getting Started
-This is an ERC4626 vault that compounds DODO USDC-USDT LP positions.
+## Description
+MVP: This is an ERC4626 vault that compounds DODO USDC-USDT LP positions to increase users share of underlying.
+
+TODO: plug in strategy to take long/short with rewards.
+
+## Warning
 (not ready for production)
+## Getting Started
 Build smart contracts
 ```
 forge build
